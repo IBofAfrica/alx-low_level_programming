@@ -2,11 +2,11 @@
 /**
  *main - entry point
  *
- * return: 0
+ * Return: 0
  */
 
 int main(void)
 {
-	printf("withe proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
